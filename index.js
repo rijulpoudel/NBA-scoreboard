@@ -18,3 +18,18 @@ let add3 = () =>{
     count_home +=3
     score_home.textContent = count_home
 }
+
+let add1g = () =>{
+    count_guest +=1 
+    score_guest.textContent = count_guest
+}
+
+let add2g = () =>{
+    count_guest +=2 
+    score_guest.textContent = count_guest
+}
+
+let add3g = () =>{
+    count_guest +=3
+    score_guest.textContent = count_guest
+}
